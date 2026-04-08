@@ -1,0 +1,4 @@
+#!/bin/bash
+# Mirror the permissions of 'olleh' to 'hello'
+
+chmod --reference=olleh hello
