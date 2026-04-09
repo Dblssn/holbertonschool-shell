@@ -1,2 +1,0 @@
-#!/bin/bash
-cat -e 14-change_owner_and_group
